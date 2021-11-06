@@ -5,6 +5,6 @@ The goal of this analysis was to project the number of employees of the company 
 
 ## Resources
   - Database: PostgreSQL 13
-  - Data Tools: pgAdmin 4
+  - Data Tools: pgAdmin 4 and ANSI SQL
   - Modeling: <a href="https://www.quickdatabasediagrams.com/">Quick DBD</a>
   - Data source: Employees, Departments, Titles and Salaries CSV files.
