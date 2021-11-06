@@ -40,3 +40,7 @@ To analyze the employees eligible for the Mentorship Program we considered who w
   - On the other hand, analyzing the potential retiring employees per department, we can see that Development, Production, and Sales are the most affected by the “silver tsunami.” To obtain these results, we applied a similar method to get unique titles retirement.
 
 <img src="Resources/retiring_departments.PNG" width="300" />
+
+- For Mentorship Program, there are potential employees eligible in every title position, except for the Manager position.
+
+<img src="Resources/mentorship_eligibilty.PNG" width="300" />
