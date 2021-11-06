@@ -40,3 +40,5 @@ To analyze the employees eligible for the Mentorship Program we considered who w
   - On the other hand, analyzing the potential retiring employees per department, we can see that Development, Production, and Sales are the most affected by the “silver tsunami.” To obtain these results, we applied a similar method to get unique titles retirement.
 
 <img src="Resources/retiring_departments.PNG" width="300" />
+
+  - There are approximately 2 mentors for every 90 new employees coming into Pewlett Hackard. There are not enough mentors to effectively train the next generation and I would recommend expanding the eligibilty date for mentors in order to increase the amount of mentors.
