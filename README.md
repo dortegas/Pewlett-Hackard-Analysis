@@ -31,8 +31,10 @@ To analyze the employees eligible for the Mentorship Program we considered who w
 
 ## Summary
 
-1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+  - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
     - There are 90,398 potential retiring employees with seven different roles, so these positions will need to be filled.
    
-3. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-    - There are potential employees eligible for mentoring in every title position, except for the Manager position. In this case, the rest of the eligible employees could be a candidate for the Manager mentoring according to the results of their performance evaluation. 
+  - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+    - There are potential employees eligible for mentoring in every title position, except for the Manager position. In this case, the rest of the eligible employees could be a candidate for the Manager mentoring according to the results of their performance evaluation.
+
+  - On the other hand, analyzing the potential retiring employees per department, we can see that Development, Production, and Sales are the most affected by the “silver tsunami.”
