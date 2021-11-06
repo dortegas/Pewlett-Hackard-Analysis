@@ -38,3 +38,5 @@ To analyze the employees eligible for the Mentorship Program we considered who w
     - There are potential employees eligible for mentoring in every title position, except for the Manager position. In this case, the rest of the eligible employees could be a candidate for the Manager mentoring according to the results of their performance evaluation.
 
   - On the other hand, analyzing the potential retiring employees per department, we can see that Development, Production, and Sales are the most affected by the “silver tsunami.”
+
+<a img="Resources/retiring_departments" width="300" />
