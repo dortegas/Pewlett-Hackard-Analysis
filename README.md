@@ -8,3 +8,13 @@ The goal of this analysis was to project the number of employees of the company 
   - Data Tools: pgAdmin 4 and ANSI SQL
   - Modeling ERD: <a href="https://www.quickdatabasediagrams.com/">Quick DBD</a>
   - Data source: Employees, Departments, Titles and Salaries CSV files.
+
+## Results
+
+**The Number of Retiring Employees by Title**
+
+The criteria to analyze the number of retiring employees by title was to consider the employees, who were born between 1952 and 1955.
+
+ - The Pewlett-Hackard managers need to pay attention to the number of 90,398 retiring employees by title, who represents almost 30% of the total number of the company employees.
+ - The most representative numbers of the retiring employees by title are 29,414 Senior Engineer, 28,254 Senior Staff and 14,222 Engineer. There are two employees with the title of Manager who meet the criteria for potential retirement
+
