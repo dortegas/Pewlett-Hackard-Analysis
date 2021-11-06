@@ -18,5 +18,15 @@ The criteria to analyze the number of retiring employees by title was to conside
  - The Pewlett-Hackard managers need to pay attention to the number of 90,398 retiring employees by title, who represents almost 30% of the total number of the company employees.
  - The most representative numbers of the retiring employees by title are 29,414 Senior Engineer, 28,254 Senior Staff and 14,222 Engineer. There are two employees with the title of Manager who meet the criteria for potential retirement.
 
-<img src="Resources/retiring_titles.PNG" width="350" />
+<img src="Resources/retiring_titles.PNG" width="300" />
+
+**The Employees Eligible for the Mentorship Program**
+
+To analyze the employees eligible for the Mentorship Program we considered who was born in 1965 and continues working in the company.
+
+- There are 1,549 potential employees eligible for the Mentorship Program.
+- There are potential employees eligible for mentoring in every title position, except for the Manager position. In this case, the rest of the eligible employees could be a candidate for the Manager mentoring.
+
+<img src="Resources/mentorship_eligibilty.PNG" width="300" />
+
 
